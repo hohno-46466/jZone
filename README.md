@@ -1,5 +1,4 @@
-# jZone
-Joint project Zone
+# jZone - Joint project Zone
 
     ./jZone
      |-- 00README.txt
