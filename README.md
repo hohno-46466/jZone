@@ -1,4 +1,4 @@
-# jZone - Joint project Zone
+# GitHub/jZone - Joint project Zone
 
     ./jZone
      |-- 00README.txt
@@ -60,3 +60,5 @@ See also 00README.txt, if prepared.
 
 Thu Apr  9 14:57:40 JST 2020
 -->
+
+-EOF-
