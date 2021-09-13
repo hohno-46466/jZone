@@ -1,21 +1,27 @@
 # GitHub/jZone - Joint project Zone
 
-    ./jZone
-     |-- 00README.txt
-     `-- README.md
+    jZone
+     ├── 00README.txt
+     └── README.md
 
-    ./jZone--ProjectWW-workspace
-     |-- README.md
-     |-- code
-     |   |-- Arduino
-     |   |   `-- README.md
-     |   |-- README.md
-     |   `-- RaspberryPi
-     |       `-- README.md
-     `-- documents
-         `-- README.md
+    jZone--ProjectJJY--private
+     └── README.md
 
-     4 directories, 7 files (Tue Jun 29 06:16:44 JST 2021)
+    jZone--ProjectJJY--public
+     └── README.md
+
+    jZone--ProjectWW-workspace
+     ├── README.md
+     ├── code
+     │   ├── Arduino
+     │   │   └── README.md
+     │   ├── README.md
+     │   └── RaspberryPi
+     │       └── README.md
+     └── documents
+         └── README.md
+     
+     4 directories, 9 files (Tue Sep 14 00:38:11 JST 2021)
 
 <!---
 ====
