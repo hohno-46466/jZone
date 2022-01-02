@@ -1,5 +1,7 @@
 # GitHub/jZone - Joint project Zone
 
+Joint project Zone
+
     jZone
      ├── 00README.txt
      └── README.md
@@ -67,8 +69,8 @@ See also 00README.txt, if prepared.
 Thu Apr  9 14:57:40 JST 2020
 -->
 
-Note: 	url = https://github.com/hohno-46466/jZone
+Note:	url = https://github.com/hohno-46466/jZone
 
-Note:   url = git@github.com:hohno-46466/jZone.git
+Note:	url = git@github.com:hohno-46466/jZone.git
 
 -EOF-
