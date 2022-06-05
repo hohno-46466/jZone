@@ -2,17 +2,17 @@
 
 Joint project Zone
 
-    jZone
+    ./jZone
      ├── 00README.txt
      └── README.md
 
-    jZone--ProjectJJY--private
+    ./jZone--ProjectJJY--private
      └── README.md
 
-    jZone--ProjectJJY--public
+    ./jZone--ProjectJJY--public
      └── README.md
 
-    jZone--ProjectWW-workspace
+    ./jZone--ProjectWW-workspace
      ├── README.md
      ├── code
      │   ├── Arduino
