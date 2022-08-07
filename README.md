@@ -27,8 +27,8 @@ Joint project Zone
      1 directory, 5 files (Mon Aug  8 02:56:11 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/jZone
+Note: URL = https://github.com/hohno-46466/jZone
 
-Note: url = git@github.com:hohno-46466/jZone.git
+Note: URL = git@github.com:hohno-46466/jZone.git
 
 -EOF-
