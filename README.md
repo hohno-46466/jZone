@@ -4,27 +4,30 @@ Joint project Zone
 
     ./jZone
      ├──  00README.txt
+     ├──  00README.txt.bak
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Nov  5 00:04:51 JST 2022)
+     0 directories, 4 files (Fri Nov 11 05:33:23 JST 2022)
 
     ./jZone--ProjectJJY--private
      ├──  ==PrivateRepository==
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Nov  5 00:04:51 JST 2022)
+     0 directories, 3 files (Fri Nov 11 05:33:23 JST 2022)
 
     ./jZone--ProjectJJY--public
      ├──  MQTTping/
      │   ├──  MQTTping-pub.sh
+     │   ├──  MQTTping-pub.sh.bak
      │   ├──  MQTTping-sub.sh
+     │   ├──  MQTTping-sub.sh.bak
      │   └──  README.md
      ├──  README.md
      └──  README.md.old
      
-     1 directory, 5 files (Sat Nov  5 00:04:52 JST 2022)
+     1 directory, 7 files (Fri Nov 11 05:33:23 JST 2022)
 
     ./jZone--ProjectWW--workspace
      ├──  README.md
@@ -38,7 +41,7 @@ Joint project Zone
      └──  documents/
          └──  README.md
      
-     4 directories, 6 files (Sat Nov  5 00:04:52 JST 2022)
+     4 directories, 6 files (Fri Nov 11 05:33:23 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/jZone
